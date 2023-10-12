@@ -354,3 +354,6 @@ t,s,l,time,newtime,rssi,timestamp
 
 0,183,101,9,73,-31,1697104741073
 
+t,s,l,time,newtime,rssi,now
+0,0,102,417,511,-32,1697131427511
+
