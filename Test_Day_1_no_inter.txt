@@ -1,7 +1,4 @@
 t,s,l,time,newtime,rssi
-0,0,0,817,201,-53
-
-t,s,l,time,newtime,rssi
 0,1,2,734,861,-53
 
 0,2,3,856,6,-53
